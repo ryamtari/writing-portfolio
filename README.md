@@ -1,4 +1,4 @@
-# Maryam Tariq – Technical Writing Portfolio
+# Maryam Tariq – Writing Portfolio
 
 Welcome! This portfolio highlights my research-based writing projects on technology, ethics, and global business communication. Each project demonstrates structured analysis, clear communication of complex concepts, and actionable insights.
 
